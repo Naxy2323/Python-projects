@@ -13,3 +13,7 @@ for i in range(uzunluq):
     sifre = sifre + random.choice(simvollar)
     
 print("Şifrəniz:", sifre)
+
+"""
+sadəcə idle ilə işləyir!!!!!
+"""
