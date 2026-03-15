@@ -20,3 +20,7 @@ elif oyunçu == "qayçı" and kompüter == "kağız":
     print("Sən qazan!")
 else:
     print("Kompüter qazandı!")
+
+"""
+sadəcə idle ilə işləyir!!!!!
+"""
