@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Naun Rahimli
+# Licensed under the MIT License
+
 import random
 import string
 import json
