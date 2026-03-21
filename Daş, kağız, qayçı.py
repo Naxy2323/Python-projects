@@ -1,3 +1,11 @@
+# Copyright (c) 2026 Naun Rahimli
+# Licensed under the MIT License
+
+"""
+sadəcə idle ilə işləyir!!!!!
+"""
+
+
 import random
 
 seçimlər = ["daş", "kağız", "qayçı"]
@@ -21,6 +29,3 @@ elif oyunçu == "qayçı" and kompüter == "kağız":
 else:
     print("Kompüter qazandı!")
 
-"""
-sadəcə idle ilə işləyir!!!!!
-"""
