@@ -1,3 +1,10 @@
+# Copyright (c) 2026 Naun Rahimli
+# Licensed under the MIT License
+
+"""
+sadəcə idle ilə işləyir!!!!!
+"""
+
 import random
 import string
 
@@ -14,6 +21,3 @@ for i in range(uzunluq):
     
 print("Şifrəniz:", sifre)
 
-"""
-sadəcə idle ilə işləyir!!!!!
-"""
